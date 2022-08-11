@@ -1,0 +1,16 @@
+E:\Codes\C#\Strings\bin\Debug\net5.0\Strings.exe
+E:\Codes\C#\Strings\bin\Debug\net5.0\Strings.deps.json
+E:\Codes\C#\Strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+E:\Codes\C#\Strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+E:\Codes\C#\Strings\bin\Debug\net5.0\Strings.dll
+E:\Codes\C#\Strings\bin\Debug\net5.0\Strings.pdb
+E:\Codes\C#\Strings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache
+E:\Codes\C#\Strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C#\Strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+E:\Codes\C#\Strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+E:\Codes\C#\Strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+E:\Codes\C#\Strings\obj\Debug\net5.0\Strings.dll
+E:\Codes\C#\Strings\obj\Debug\net5.0\refint\Strings.dll
+E:\Codes\C#\Strings\obj\Debug\net5.0\Strings.pdb
+E:\Codes\C#\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache
+E:\Codes\C#\Strings\obj\Debug\net5.0\ref\Strings.dll
