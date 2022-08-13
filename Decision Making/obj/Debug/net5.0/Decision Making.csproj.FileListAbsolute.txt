@@ -1,0 +1,16 @@
+E:\Codes\C#\Decision Making\bin\Debug\net5.0\Decision Making.exe
+E:\Codes\C#\Decision Making\bin\Debug\net5.0\Decision Making.deps.json
+E:\Codes\C#\Decision Making\bin\Debug\net5.0\Decision Making.runtimeconfig.json
+E:\Codes\C#\Decision Making\bin\Debug\net5.0\Decision Making.runtimeconfig.dev.json
+E:\Codes\C#\Decision Making\bin\Debug\net5.0\Decision Making.dll
+E:\Codes\C#\Decision Making\bin\Debug\net5.0\Decision Making.pdb
+E:\Codes\C#\Decision Making\obj\Debug\net5.0\Decision Making.csproj.AssemblyReference.cache
+E:\Codes\C#\Decision Making\obj\Debug\net5.0\Decision Making.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C#\Decision Making\obj\Debug\net5.0\Decision Making.AssemblyInfoInputs.cache
+E:\Codes\C#\Decision Making\obj\Debug\net5.0\Decision Making.AssemblyInfo.cs
+E:\Codes\C#\Decision Making\obj\Debug\net5.0\Decision Making.csproj.CoreCompileInputs.cache
+E:\Codes\C#\Decision Making\obj\Debug\net5.0\Decision Making.dll
+E:\Codes\C#\Decision Making\obj\Debug\net5.0\refint\Decision Making.dll
+E:\Codes\C#\Decision Making\obj\Debug\net5.0\Decision Making.pdb
+E:\Codes\C#\Decision Making\obj\Debug\net5.0\Decision Making.genruntimeconfig.cache
+E:\Codes\C#\Decision Making\obj\Debug\net5.0\ref\Decision Making.dll
