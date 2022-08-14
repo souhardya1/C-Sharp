@@ -1,0 +1,16 @@
+E:\Codes\C#\Properties\bin\Debug\net5.0\Properties.exe
+E:\Codes\C#\Properties\bin\Debug\net5.0\Properties.deps.json
+E:\Codes\C#\Properties\bin\Debug\net5.0\Properties.runtimeconfig.json
+E:\Codes\C#\Properties\bin\Debug\net5.0\Properties.runtimeconfig.dev.json
+E:\Codes\C#\Properties\bin\Debug\net5.0\Properties.dll
+E:\Codes\C#\Properties\bin\Debug\net5.0\Properties.pdb
+E:\Codes\C#\Properties\obj\Debug\net5.0\Properties.csproj.AssemblyReference.cache
+E:\Codes\C#\Properties\obj\Debug\net5.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C#\Properties\obj\Debug\net5.0\Properties.AssemblyInfoInputs.cache
+E:\Codes\C#\Properties\obj\Debug\net5.0\Properties.AssemblyInfo.cs
+E:\Codes\C#\Properties\obj\Debug\net5.0\Properties.csproj.CoreCompileInputs.cache
+E:\Codes\C#\Properties\obj\Debug\net5.0\Properties.dll
+E:\Codes\C#\Properties\obj\Debug\net5.0\refint\Properties.dll
+E:\Codes\C#\Properties\obj\Debug\net5.0\Properties.pdb
+E:\Codes\C#\Properties\obj\Debug\net5.0\Properties.genruntimeconfig.cache
+E:\Codes\C#\Properties\obj\Debug\net5.0\ref\Properties.dll

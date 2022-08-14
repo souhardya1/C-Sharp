@@ -1,0 +1,16 @@
+E:\Codes\C#\AbstractClasses131\bin\Debug\net5.0\AbstractClasses131.exe
+E:\Codes\C#\AbstractClasses131\bin\Debug\net5.0\AbstractClasses131.deps.json
+E:\Codes\C#\AbstractClasses131\bin\Debug\net5.0\AbstractClasses131.runtimeconfig.json
+E:\Codes\C#\AbstractClasses131\bin\Debug\net5.0\AbstractClasses131.runtimeconfig.dev.json
+E:\Codes\C#\AbstractClasses131\bin\Debug\net5.0\AbstractClasses131.dll
+E:\Codes\C#\AbstractClasses131\bin\Debug\net5.0\AbstractClasses131.pdb
+E:\Codes\C#\AbstractClasses131\obj\Debug\net5.0\AbstractClasses131.csproj.AssemblyReference.cache
+E:\Codes\C#\AbstractClasses131\obj\Debug\net5.0\AbstractClasses131.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C#\AbstractClasses131\obj\Debug\net5.0\AbstractClasses131.AssemblyInfoInputs.cache
+E:\Codes\C#\AbstractClasses131\obj\Debug\net5.0\AbstractClasses131.AssemblyInfo.cs
+E:\Codes\C#\AbstractClasses131\obj\Debug\net5.0\AbstractClasses131.csproj.CoreCompileInputs.cache
+E:\Codes\C#\AbstractClasses131\obj\Debug\net5.0\AbstractClasses131.dll
+E:\Codes\C#\AbstractClasses131\obj\Debug\net5.0\refint\AbstractClasses131.dll
+E:\Codes\C#\AbstractClasses131\obj\Debug\net5.0\AbstractClasses131.pdb
+E:\Codes\C#\AbstractClasses131\obj\Debug\net5.0\AbstractClasses131.genruntimeconfig.cache
+E:\Codes\C#\AbstractClasses131\obj\Debug\net5.0\ref\AbstractClasses131.dll

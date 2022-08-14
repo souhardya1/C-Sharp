@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AbstractClasses131/1.0.0": {
+        "runtime": {
+          "AbstractClasses131.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractClasses131/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
