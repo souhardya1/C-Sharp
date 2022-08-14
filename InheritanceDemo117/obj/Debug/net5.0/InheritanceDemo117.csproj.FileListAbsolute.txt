@@ -1,0 +1,16 @@
+E:\Codes\C#\InheritanceDemo117\obj\Debug\net5.0\InheritanceDemo117.csproj.AssemblyReference.cache
+E:\Codes\C#\InheritanceDemo117\obj\Debug\net5.0\InheritanceDemo117.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C#\InheritanceDemo117\obj\Debug\net5.0\InheritanceDemo117.AssemblyInfoInputs.cache
+E:\Codes\C#\InheritanceDemo117\obj\Debug\net5.0\InheritanceDemo117.AssemblyInfo.cs
+E:\Codes\C#\InheritanceDemo117\obj\Debug\net5.0\InheritanceDemo117.csproj.CoreCompileInputs.cache
+E:\Codes\C#\InheritanceDemo117\bin\Debug\net5.0\InheritanceDemo117.exe
+E:\Codes\C#\InheritanceDemo117\bin\Debug\net5.0\InheritanceDemo117.deps.json
+E:\Codes\C#\InheritanceDemo117\bin\Debug\net5.0\InheritanceDemo117.runtimeconfig.json
+E:\Codes\C#\InheritanceDemo117\bin\Debug\net5.0\InheritanceDemo117.runtimeconfig.dev.json
+E:\Codes\C#\InheritanceDemo117\bin\Debug\net5.0\InheritanceDemo117.dll
+E:\Codes\C#\InheritanceDemo117\bin\Debug\net5.0\InheritanceDemo117.pdb
+E:\Codes\C#\InheritanceDemo117\obj\Debug\net5.0\InheritanceDemo117.dll
+E:\Codes\C#\InheritanceDemo117\obj\Debug\net5.0\refint\InheritanceDemo117.dll
+E:\Codes\C#\InheritanceDemo117\obj\Debug\net5.0\InheritanceDemo117.pdb
+E:\Codes\C#\InheritanceDemo117\obj\Debug\net5.0\InheritanceDemo117.genruntimeconfig.cache
+E:\Codes\C#\InheritanceDemo117\obj\Debug\net5.0\ref\InheritanceDemo117.dll

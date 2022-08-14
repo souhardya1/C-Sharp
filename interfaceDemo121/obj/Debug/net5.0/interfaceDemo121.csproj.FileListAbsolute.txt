@@ -1,0 +1,16 @@
+E:\Codes\C#\interfaceDemo121\bin\Debug\net5.0\interfaceDemo121.exe
+E:\Codes\C#\interfaceDemo121\bin\Debug\net5.0\interfaceDemo121.deps.json
+E:\Codes\C#\interfaceDemo121\bin\Debug\net5.0\interfaceDemo121.runtimeconfig.json
+E:\Codes\C#\interfaceDemo121\bin\Debug\net5.0\interfaceDemo121.runtimeconfig.dev.json
+E:\Codes\C#\interfaceDemo121\bin\Debug\net5.0\interfaceDemo121.dll
+E:\Codes\C#\interfaceDemo121\bin\Debug\net5.0\interfaceDemo121.pdb
+E:\Codes\C#\interfaceDemo121\obj\Debug\net5.0\interfaceDemo121.csproj.AssemblyReference.cache
+E:\Codes\C#\interfaceDemo121\obj\Debug\net5.0\interfaceDemo121.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C#\interfaceDemo121\obj\Debug\net5.0\interfaceDemo121.AssemblyInfoInputs.cache
+E:\Codes\C#\interfaceDemo121\obj\Debug\net5.0\interfaceDemo121.AssemblyInfo.cs
+E:\Codes\C#\interfaceDemo121\obj\Debug\net5.0\interfaceDemo121.csproj.CoreCompileInputs.cache
+E:\Codes\C#\interfaceDemo121\obj\Debug\net5.0\interfaceDemo121.dll
+E:\Codes\C#\interfaceDemo121\obj\Debug\net5.0\refint\interfaceDemo121.dll
+E:\Codes\C#\interfaceDemo121\obj\Debug\net5.0\interfaceDemo121.pdb
+E:\Codes\C#\interfaceDemo121\obj\Debug\net5.0\interfaceDemo121.genruntimeconfig.cache
+E:\Codes\C#\interfaceDemo121\obj\Debug\net5.0\ref\interfaceDemo121.dll
