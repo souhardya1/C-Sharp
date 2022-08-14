@@ -1,0 +1,16 @@
+E:\Codes\C#\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.exe
+E:\Codes\C#\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.deps.json
+E:\Codes\C#\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.runtimeconfig.json
+E:\Codes\C#\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.runtimeconfig.dev.json
+E:\Codes\C#\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.dll
+E:\Codes\C#\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.pdb
+E:\Codes\C#\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.csproj.AssemblyReference.cache
+E:\Codes\C#\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C#\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+E:\Codes\C#\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.AssemblyInfo.cs
+E:\Codes\C#\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+E:\Codes\C#\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.dll
+E:\Codes\C#\ObjectOrientedProgramming\obj\Debug\net5.0\refint\ObjectOrientedProgramming.dll
+E:\Codes\C#\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.pdb
+E:\Codes\C#\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.genruntimeconfig.cache
+E:\Codes\C#\ObjectOrientedProgramming\obj\Debug\net5.0\ref\ObjectOrientedProgramming.dll
