@@ -1,0 +1,16 @@
+E:\Codes\C#\Arrays\bin\Debug\net5.0\arraysHashtables.exe
+E:\Codes\C#\Arrays\bin\Debug\net5.0\arraysHashtables.deps.json
+E:\Codes\C#\Arrays\bin\Debug\net5.0\arraysHashtables.runtimeconfig.json
+E:\Codes\C#\Arrays\bin\Debug\net5.0\arraysHashtables.runtimeconfig.dev.json
+E:\Codes\C#\Arrays\bin\Debug\net5.0\arraysHashtables.dll
+E:\Codes\C#\Arrays\bin\Debug\net5.0\arraysHashtables.pdb
+E:\Codes\C#\Arrays\obj\Debug\net5.0\arraysHashtables.csproj.AssemblyReference.cache
+E:\Codes\C#\Arrays\obj\Debug\net5.0\arraysHashtables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C#\Arrays\obj\Debug\net5.0\arraysHashtables.AssemblyInfoInputs.cache
+E:\Codes\C#\Arrays\obj\Debug\net5.0\arraysHashtables.AssemblyInfo.cs
+E:\Codes\C#\Arrays\obj\Debug\net5.0\arraysHashtables.csproj.CoreCompileInputs.cache
+E:\Codes\C#\Arrays\obj\Debug\net5.0\arraysHashtables.dll
+E:\Codes\C#\Arrays\obj\Debug\net5.0\refint\arraysHashtables.dll
+E:\Codes\C#\Arrays\obj\Debug\net5.0\arraysHashtables.pdb
+E:\Codes\C#\Arrays\obj\Debug\net5.0\arraysHashtables.genruntimeconfig.cache
+E:\Codes\C#\Arrays\obj\Debug\net5.0\ref\arraysHashtables.dll
